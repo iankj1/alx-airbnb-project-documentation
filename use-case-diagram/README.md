@@ -1,39 +1,5 @@
 
----
-
-## 📐 Tools Used
-
-- **Diagram Tool**: [Draw.io (diagrams.net)](https://draw.io)
-- **Diagram Type**: UML Use Case Diagram
-- **Export Format**: PNG image
-
----
-
-## 💡 How to Interpret the Diagram
-
-- Ovals represent **system functions (use cases)**.
-- Stick figures represent **actors (users)**.
-- Arrows show the **interactions** between the system and each user role.
-
-The use case diagram helps development teams:
-- Define scope
-- Plan system interactions
-- Translate use cases into user stories and API requirements
-
----
-
-## 🔗 Related Tasks
-
-- **Task 1**: [Features and Functionalities](../features-and-functionalities/)
-- **Task 3**: [User Stories](../user-stories/)
-
----
-
-## 👥 Contributors
-
-Developed as part of the **ALX Airbnb Clone backend system analysis**.
-
-
+![image](https://github.com/user-attachments/assets/3aae4614-911f-46bf-a952-2ea59ac1d6ad)
 
 
 # 🧩 Airbnb Clone – Use Case Diagram
